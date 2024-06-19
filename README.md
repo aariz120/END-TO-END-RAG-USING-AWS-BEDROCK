@@ -20,4 +20,12 @@ conda activate ragbedrock2
 
 ```bash
 pip install -r requirements.txt
+``
+
+
+
+4.  Run your Application
+
+```bash
+streamlit run main.py
 ```
